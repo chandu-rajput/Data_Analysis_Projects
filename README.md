@@ -27,5 +27,11 @@ Each project folder includes:
 - 09_Practise (Website performance Analysis)
 
 
-git clone 
+## ✨ Author
+
+**Chandrapal Deora**
+
+- 📧 Email: chandrapal.deora.ds@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile/)  
+- 🐍 GitHub: [github.com/your-username](https://github.com/chandu-rajput)
 
