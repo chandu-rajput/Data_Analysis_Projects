@@ -15,7 +15,16 @@ Each project folder includes:
 - **Plotly** – Interactive visualizations
 - **Seaborn** – Statistical data visualization (built on top of Matplotlib)  
 
-
+## Projects
+- 01_Practise (Hotel Analysis)
+- 02_practise (E-commerce Analysis -- plotly)
+- 03_Practise (Netflix Analysis -- EDA_Base)
+- 04_Practise (Airbnb_Analysis)
+- 05_Practise (Zomato_Analysis)
+- 06_Practise (GOOGLE_Analysis)
+- 07_Practise (iphone_Analysis)
+- 08_Practise (UBER Analysis)
+- 09_Practise (Website performance Analysis)
 
 
 git clone 
